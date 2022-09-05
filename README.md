@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤖 I'm an incoming SDE Intern + SDE (FTE) @ Delhivery
+- 🤖 I'm an incoming SDE Intern @ Delhivery
 - 🌱 I’m currently a Technical Content Writer (Engineer) @ PrepBytes and Scaler. I am working to improve and grow my problem solving skills.  
 - 👯 I’m looking to collaborate on new and exciting project ideas
 - 💬 Ask me about Data Structures and Algorithms, Leetcode, Pepcoding and Problem Solving
