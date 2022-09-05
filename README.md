@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Data Structures and Algorithms in Java and Web Development using MERN stack
+- 🤖 I'm an incoming SDE Intern + SDE (FTE) @ Delhivery
+- 🌱 I’m currently a Technical Content Writer (Engineer) @ PrepBytes and Scaler. I am working to improve and grow my problem solving skills.  
 - 👯 I’m looking to collaborate on new and exciting project ideas
 - 💬 Ask me about Data Structures and Algorithms, Leetcode, Pepcoding and Problem Solving
 - 🥅 2022 Goals - Reaching the 500 questions mark on Leetcode. Learning Operating Systems, Computer Networks and DBMS.
