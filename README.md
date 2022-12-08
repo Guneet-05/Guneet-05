@@ -3,7 +3,7 @@
 - 🤖 I'm an Upcoming SDE Intern @ Delhivery
 - 🌱 I’m currently a Technical Content Writer (Engineer) @ PrepBytes and Scaler. I am working to improve and grow my problem solving skills.  
 - 👯 I’m looking to collaborate on new and exciting project ideas
-- 💬 Ask me about Data Structures and Algorithms, Leetcode, and Problem Solving
+- 💬 Ask me about Data Structures and Algorithms, Java, Python, Django, System Design, and Problem Solving, etc.
 - 🥅 2022 Goals - Self growth, teaching good and learning development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guneet-malhotra-952a0b190/) 
 - 😄 Pronouns: He/His
