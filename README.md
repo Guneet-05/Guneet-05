@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🤖 I'm an SDE Intern @ Delhivery
+- 🤖 I'm an SDE @ Delhivery
 - 🌱 I’m a Software Developer, Technical Content Engineer, Freelance DSA Instructor, and a Problem Solver.  
-- 👯 I’m looking to collaborate on new and exciting project ideas
+- 👯 I’m looking to collaborate on new and exciting project ideas for solving real world problems through code.
 - 💬 Ask me about Data Structures and Algorithms, Java, Python, Django, System Design, and Problem Solving, etc.
-- 🥅 2023 Goals - Learn a lot in my Internship and join as an FTE SDE in the later half of the year.
+- 🥅 2023 Goals - Develop a good understanding of the product I am working on and go into the System Design details in general and for the product.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guneet-malhotra-952a0b190/) 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: It took less code to send a machine to space than to run a smartphone
+- ⚡ Fun fact: Coding is less about intelligence and more about remembering patterns and pattern recognition. 
 <img src="https://github-readme-stats.vercel.app/api?username=Guneet-05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
