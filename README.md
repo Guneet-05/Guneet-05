@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤖 I'm an SDE @ Delhivery
+- 🤖 I'm a Backend Developer @ Siemens Energy
 - 🌱 I’m a Software Developer, Technical Content Engineer, Freelance DSA Instructor, and a Problem Solver.  
 - 👯 I’m looking to collaborate on new and exciting project ideas for solving real world problems through code.
 - 💬 Ask me about Data Structures and Algorithms, Java, Python, Django, System Design, and Problem Solving, etc.
